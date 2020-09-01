@@ -1,10 +1,13 @@
+*
+!*/
+
 # Node modules.
 node_modules/
 
 # Generated directories.
 generated/
 out/
-dist/
+!dist/npm__de.js
 .firebase
 
 # Generated files.

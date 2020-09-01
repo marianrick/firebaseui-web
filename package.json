@@ -5,7 +5,7 @@
   "files": [
     "dist/firebaseui.js",
     "dist/firebaseui.css",
-    "dist/npm.js",
+    "dist/npm__de.js",
     "dist/esm.js",
     "dist/index.d.ts",
     "dist/externs",
@@ -13,7 +13,7 @@
     "README.md",
     "package.json"
   ],
-  "main": "./dist/npm.js",
+  "main": "./dist/npm__de.js",
   "module": "./dist/esm.js",
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
